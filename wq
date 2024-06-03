@@ -1,0 +1,54 @@
+[33mcommit e78dedeb853e319039966c50ec5269c532f95103[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: namkungkang <namkung0131@naver.com>
+Date:   Fri May 31 21:20:58 2024 +0900
+
+    add2txt
+
+[33mcommit 695500e8e00d686460dcff86c20de4445b1a0879[m
+Merge: c914f5e 635b763
+Author: namkungkang <namkung0131@naver.com>
+Date:   Fri May 31 21:19:36 2024 +0900
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit c914f5ea7b98c3939ab7a7f9324c25c07885ba70[m
+Author: namkungkang <namkung0131@naver.com>
+Date:   Fri May 31 21:18:42 2024 +0900
+
+    add
+
+[33mcommit 635b763745071272c4be8d701598d0204a6d5c60[m
+Author: namkungkang <namkung0131@naver.com>
+Date:   Fri May 31 21:16:48 2024 +0900
+
+    수정
+
+[33mcommit 9e526e7b8b0f4afa3005deae708585e23fd7f099[m
+Author: namkungkang <namkung0131@naver.com>
+Date:   Fri May 31 20:59:14 2024 +0900
+
+    third modify
+
+[33mcommit d5c37a8cd0dc0a81599b9af35c96a65180f96e16[m
+Author: KANG-git <139133085+namkungkang@users.noreply.github.com>
+Date:   Fri May 31 20:57:45 2024 +0900
+
+    Create README.md
+
+[33mcommit b31c472b584c7b1410908ac6a67068056d62bc59[m
+Author: namkungkang <namkung0131@naver.com>
+Date:   Fri May 31 20:42:50 2024 +0900
+
+    second modify
+
+[33mcommit f0b281ee7a374f1393e689fabbb781373a3b1002[m
+Author: namkungkang <namkung0131@naver.com>
+Date:   Fri May 31 20:42:04 2024 +0900
+
+    first modify
+
+[33mcommit bc3fc240c14dc75e419218810ad2c26eb071d73a[m
+Author: namkungkang <namkung0131@naver.com>
+Date:   Fri May 31 20:41:12 2024 +0900
+
+    initial commit
